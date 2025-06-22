@@ -83,19 +83,6 @@ weather_bot/
 
 ---
 
-## 🔒 Disclaimer
-
-- API keys are **confidential**. Do not share your `.env` file publicly.
-- This bot works best with cities supported by WeatherAPI.
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 🙋‍♂️ Author
 
 Made with ❤️ by [Arindam Roy](https://github.com/Arindam-Roy2004)
